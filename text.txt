@@ -1,6 +1,0 @@
-
-variable_name
-functionName
-Classname
-Properties of class
-method of classes
